@@ -89,7 +89,7 @@ export default {
 | fixed-bottom-center | 固定在底部中间 | Boolean | false | true/false |
 | rebind | 更换输入框时是否重新绑定之前的自定义按钮点击事件 | Boolean | true | true/false
 
-### keys内置按键
+### keys不传时为默认全键盘，内置按键
 default：| Shift | Caps | Delete | Enter | Space | Tab | <br>
 mobile：| ⇧ | ⇦ | Enter | Space | <br>
 number：| Delete | Enter |
